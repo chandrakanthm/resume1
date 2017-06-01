@@ -1,0 +1,22 @@
+{
+  "name": "projector",
+  "version": "0.5.0",
+  "ignore": [
+    ".*",
+    "spec",
+    "example",
+    "package.json",
+    "karma.conf.js"
+  ],
+  "homepage": "https://github.com/unframework/projector",
+  "_release": "0.5.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.5.0",
+    "commit": "af7c76caa36109386519625f577d399186aa9015"
+  },
+  "_source": "https://github.com/unframework/projector.git",
+  "_target": "^0.5.0",
+  "_originalSource": "projector",
+  "_direct": true
+}
